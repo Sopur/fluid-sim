@@ -2,6 +2,10 @@
 
 This is a bad fluid sim I made after watching some idiot make a fluid sim in 4 months and thought that I could do it better in less than a day. I did do it, in 4 hours, and it looks pretty convincing, while also being kind of slow because I was too lazy to add any special partitioning.
 
+# Controls
+
+Use W, A, S, or D to move the camera around.
+
 # Changing the settings
 
 -   You can change the physics settings by altering the global constants at the top of the `main.js` and `physics.js`.
